@@ -1,0 +1,31 @@
+class colors():
+    def __init__(self):
+        self.red = (255, 0, 0)
+        self.green = (0, 255, 0)
+        self.blue = (0, 0, 255)
+        self.white = (255,255,255)
+        self.black = (0,0,0)
+        self.orange = (255,100,10)
+        self.yellow = (255,255,0)
+        self.blue_green = (0,255,170)
+        self.marroon = (115,0,0)
+        self.lime = (180,255,100)
+        self.pink = (255,100,180)
+        self.purple = (240,0,255)
+        self.gray = (127,127,127)
+        self.magenta = (255,0,230)
+        self.brown = (100,40,0)
+        self.forest_green = (0,50,0)
+        self.navy_blue = (0,0,100)
+        self.rust = (210,150,75)
+        self.dandilion_yellow = (255,200,0)
+        self.highlighter = (255,255,100)
+        self.sky_blue = (0,255,255)
+        self.light_gray = (200,200,200)
+        self.dark_gray = (50,50,50)
+        self.tan = (230,220,170)
+        self.coffee_brown = (200,190,140)
+        self.moon_glow = (235,245,255)
+    
+    '''def __str__(self):
+        return f"({self}, {self.value[1]}, {self.value[2]})"'''
