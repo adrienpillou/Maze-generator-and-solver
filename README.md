@@ -5,5 +5,5 @@ Red cell represent the end node.
 The path is built with a breadth first search across a procedurally generated maze.
 
 <img src="https://github.com/adrienpillou/Maze-generator-and-solver/blob/main/preview.png"/>
-</br>Press C to generate a new maze.
-</br>Press Space to find the path.
+</br>Press "C" to generate a new maze.
+</br>Press "Space" to find the path.
